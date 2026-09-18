@@ -1,4 +1,4 @@
-<h2>Hey, I'm Docker 👋</h2>
+<h2>Hey, I'm Docker Core 👋</h2>
 
 <p>Full-Stack Developer | Building scalable applications | Worked on projects handling R$50M+ monthly</p>
 
